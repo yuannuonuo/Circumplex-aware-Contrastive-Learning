@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+# macOS
+.DS_Store
+# Generated outputs (model weights are downloaded separately — see README §5)
+outputs/*
+!outputs/.gitkeep
+preds/
+*.log

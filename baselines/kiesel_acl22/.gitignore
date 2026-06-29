@@ -1,0 +1,24 @@
+######################
+# Python
+######################
+__pycache__
+
+######################
+# IntelliJ
+######################
+.idea/
+
+######################
+# R
+######################
+.RData
+.Rhistory
+
+######################
+# Project Specific
+######################
+/models
+/models.zip
+/webis-argvalues-22
+/webis-argvalues-22.zip
+/predictions.tsv

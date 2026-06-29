@@ -1,0 +1,13 @@
+# Core
+torch>=2.2
+transformers>=4.40
+sentencepiece
+numpy
+scikit-learn
+joblib
+# Baselines / figures
+xgboost
+matplotlib
+# Notes:
+#  - DeBERTa-v3 tokenizer needs `sentencepiece`.
+#  - Runs on CUDA, Apple MPS, or CPU (auto-detected in src/train.py: get_device()).
