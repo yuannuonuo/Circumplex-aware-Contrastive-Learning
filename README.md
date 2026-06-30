@@ -1,4 +1,4 @@
-# CIRCLE: A Circumplex-Aware Contrastive Learning
+# CIRCLE: A Circumplex-Aware Contrastive Learning Framework
 
 **CIRCLE: A Circumplex-Aware Contrastive Learning Framework for Fine-grained Human
 Value Identification in LLM-Generated Content** (NLPCC 2026 Shared Task 2, Track 1).
