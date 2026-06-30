@@ -59,7 +59,7 @@ warmup, weight decay 0.01, max length 96; lr 2e-5 / batch 32 for base, lr 1e-5 /
 | Two-stage, base  | 0.9416 | 0.9285 | 0.9339 | 0.9301 |
 | Two-stage, large | 0.9572 | 0.9420 | 0.9567 | 0.9465 |
 | Joint, base      | 0.9475 | 0.9324 | 0.9427 | 0.9355 |
-| **Joint, large (submission)** | **0.9533** | **0.9499** | **0.9486** | **0.9471** |
+| **Joint, large** | **0.9533** | **0.9499** | **0.9486** | **0.9471** |
 
 Strongest baseline: fine-tuned RoBERTa at 0.9065 (CIRCLE is ~4 points higher).
 Ablation (joint base): removing circular soft labels is the largest drop
