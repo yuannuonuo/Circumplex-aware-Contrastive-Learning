@@ -1,7 +1,7 @@
 # CIRCLE: A Circumplex-Aware Contrastive Learning Framework
 
 **CIRCLE: A Circumplex-Aware Contrastive Learning Framework for Fine-grained Human
-Value Identification in LLM-Generated Content** (NLPCC 2026 Shared Task 2, Track 1).
+Value Identification in LLM-Generated Content** (IP&MC 2026 Track#9: Trustworthy Content Governance and Safe Generative AI in the Age of Large Language Models).
 
 This is the **lightweight code + data** package. It contains the **data, model code,
 and experiment code** needed to reproduce every result and figure in the paper. The
