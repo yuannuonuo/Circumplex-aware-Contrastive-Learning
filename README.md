@@ -165,7 +165,7 @@ python src/make_class_freq.py    # class-frequency figure
 
 ## 6. Train from scratch
 
-Re-training reproduces the results up to MPS noise (see §4). Saved checkpoints are
+Re-training reproduces the results up to seeds noise (see §4). Saved checkpoints are
 written to the given `--out` directory.
 
 ```bash
