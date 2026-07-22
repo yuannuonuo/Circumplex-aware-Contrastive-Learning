@@ -9,7 +9,7 @@ and experiment code** needed to reproduce every result and figure in the paper. 
 `CIRCLE_experiment_weights.zip` (~12 GB, organized one folder per experiment, on
 [Google Drive](https://drive.google.com/file/d/1GwT3hQiwCtcvDwc9ONyLAJqaH0ysbFZZ/view?usp=sharing))
 because of their size — see §5 for how to download and place them. A single DeBERTa-v3-large model
-trained with CIRCLE reaches a development macro-F1 of **0.9471**, the best among all
+trained with CIRCLE reaches a macro-F1 of **0.9471**, the best among all
 evaluated systems.
 
 ---
